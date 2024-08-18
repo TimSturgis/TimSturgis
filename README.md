@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab]([https://github.com/])
 
-<h2> Certifications:</h2>
+<h2> 📄 Certifications:</h2>
 
   - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/2260f4d6-720a-4759-84bb-2c124b9598f8/public_url)
 
