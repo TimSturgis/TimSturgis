@@ -4,6 +4,8 @@
 
   - [Active Directory Home Lab](https://github.com/TimSturgis/ActiveDirectoryProject/tree/main)
 
+  - [Azure SIEM Lab](https://github.com/TimSturgis/SOC-in-the-cloud)
+
   - [Anti-Phishing Campaign Project](https://github.com/TimSturgis/Anti-Phishing-Campaign/blob/main/README.md)
 
 <h2> 📄 Certifications:</h2>
